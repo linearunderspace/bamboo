@@ -1,0 +1,4 @@
+exp1.fcs, control
+exp2.fcs, control
+exp3.fcs, case
+exp4.fcs, case
